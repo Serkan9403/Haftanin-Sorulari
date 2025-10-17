@@ -11,7 +11,7 @@
     "answer": 2
   },
   {
-    "question": "I. Günlük, haftalık ve/veya aylık raporlama yapılarak nakit tahsilatların şube, mağaza veya bayi bazında izlenebilmesi sağlar.\nII. Bankamıza vadesiz kaynak sağlar.\nIII. Nakit tahsilatlar parça ve zaman kısıtı olmadan hesaba yatırma imkânı sağlar.\nIV. Firmaların para taşıma maliyetini minimize eder.\nV. Nakit akışlarından alınan payın artırılmasını sağlar.\nYukarıdakilerden hangisi/hangileri Kolay Kasa ürününün müşterilerimize sağladığı faydalar arasında yer almaktadır?",
+    "question": "I. Günlük, haftalık ve/veya aylık raporlama yapılarak nakit tahsilatların şube, mağaza veya bayi bazında izlenebilmesi sağlar.\nI\nI. Bankamıza vadesiz kaynak sağlar.\nI\nI\nI. Nakit tahsilatlar parça ve zaman kısıtı olmadan hesaba yatırma imkânı sağlar.\nI\nV. Firmaların para taşıma maliyetini minimize eder.\nV. Nakit akışlarından alınan payın artırılmasını sağlar. Yukarıdakilerden hangisi/hangileri Kolay Kasa ürününün müşterilerimize sağladığı faydalar arasında yer almaktadır?",
     "choices": [
       "Yalnız I",
       "Yalnız II",
@@ -33,7 +33,7 @@
     "answer": 3
   },
   {
-    "question": "I. Süper Şube, ana şube altında izlenen ve müşteri-hesap sayısına göre artan alt sanal şubelerden oluşmaktadır.\nII. Süper Şube’nin müşteriye hizmet verdiği fiziki bir lokasyonu ve arşivi bulunmamaktadır.\nIII. Süper Şube avantajları arasında masrafsız şekilde başka şubedeki hesaptan para çekme işlemi yer almaktadır.\nIV. Dijital eğilimli Bankamız havuz müşterileri, uzaktan edinim müşterileri ve Süper Şube Hizmet Modellerinden yararlanmayı talep eden tüm müşteriler Süper Şube hedef kitlesine dahil olabilmektedir.\nV. 0212 392 92 92 numaralı Süper Şube İletişim Hattı üzerinden yapılan görüşmelerin kayıt altına alınmasından dolayı Süper Şube portföy temsilcilerinin cep telefonu numarası ve Voip/Cisco numaralarının müşterilerle paylaşılmaması gerekmektedir.\nSüper Şube ile ilgili olarak yukarıda yer alan bilgilerden hangisi/hangileri doğrudur?",
+    "question": "I. Süper Şube, ana şube altında izlenen ve müşteri-hesap sayısına göre artan alt sanal şubelerden oluşmaktadır.\nI\nI. Süper Şube’nin müşteriye hizmet verdiği fiziki bir lokasyonu ve arşivi bulunmamaktadır.\nI\nI\nI. Süper Şube avantajları arasında masrafsız şekilde başka şubedeki hesaptan para çekme işlemi yer almaktadır.\nI\nV. Dijital eğilimli Bankamız havuz müşterileri, uzaktan edinim müşterileri ve Süper Şube Hizmet Modellerinden yararlanmayı talep eden tüm müşteriler Süper Şube hedef kitlesine dahil olabilmektedir.\nV. 0212 392 92 92 numaralı Süper Şube İletişim Hattı üzerinden yapılan görüşmelerin kayıt altına alınmasından dolayı Süper Şube portföy temsilcilerinin cep telefonu numarası ve Voip/Cisco numaralarının müşterilerle paylaşılmaması gerekmektedir. Süper Şube ile ilgili olarak yukarıda yer alan bilgilerden hangisi/hangileri doğrudur?",
     "choices": [
       "Yalnız I",
       "I ve II",
@@ -55,7 +55,7 @@
     "answer": 1
   },
   {
-    "question": "I. “Emre yazılı değildir”, “Ciro edilemez” veya buna benzer bir kayıtla belirli bir kimse lehine ödenmesi şart kılınan (lehtar belli olan) çek, nama yazılı çek olup, ancak alacağın temliki yoluyla devredilebilir.\nII. Temlik cirosu, hamilin çek üzerindeki alacak hakkının sahibi olmasına imkân tanır.\nIII. Beyaz ciroda, lehtara yapılan (yani çek kendisine devredilen) kimsenin cirosu gösterilmesi zorunlu olmayıp, cirantanın sadece adını ve soyadını yazıp imzasını atması suretiyle de çek devredilebilir.\nIV. TTK uyarınca, “Emre yazılı” kaydıyla veya bu kayıt olmadan belirli bir kişi lehine ödenmesi şart kılınan bir çek, ciro ve çekin teslimiyle devredilir.\nV. Çeklerin tahsil cirosuyla devri, sadece nama yazılı çekler için söz konusudur.\nYukarıda çek türleri ve devirleri ile ilgili yer alan bilgilerden hangisi/hangileri doğrudur?",
+    "question": "I. “Emre yazılı değildir”, “Ciro edilemez” veya buna benzer bir kayıtla belirli bir kimse lehine ödenmesi şart kılınan (lehtar belli olan) çek, nama yazılı çek olup, ancak alacağın temliki yoluyla devredilebilir.\nI\nI. Temlik cirosu, hamilin çek üzerindeki alacak hakkının sahibi olmasına imkân tanır.\nI\nI\nI. Beyaz ciroda, lehtara yapılan (yani çek kendisine devredilen) kimsenin cirosu gösterilmesi zorunlu olmayıp, cirantanın sadece adını ve soyadını yazıp imzasını atması suretiyle de çek devredilebilir.\nI\nV. TTK uyarınca, “Emre yazılı” kaydıyla veya bu kayıt olmadan belirli bir kişi lehine ödenmesi şart kılınan bir çek, ciro ve çekin teslimiyle devredilir.\nV. Çeklerin tahsil cirosuyla devri, sadece nama yazılı çekler için söz konusudur. Yukarıda çek türleri ve devirleri ile ilgili yer alan bilgilerden hangisi/hangileri doğrudur?",
     "choices": [
       "I, II, III ve IV",
       "II, IV ve V",
@@ -66,7 +66,7 @@
     "answer": 3
   },
   {
-    "question": "Aşağıda yer alan işlemlerden hangisi/hangileri OPİ uygulaması aracılığıyla Merkeze iletilebilen işlem tiplerindendir?\nI. Döviz Transferi\nII. Peşin İthalat Transferi\nIII. Mal Mukabili İthalat Transferi\nIV. EFT\nV. Havale/Virman",
+    "question": "Aşağıda yer alan işlemlerden hangisi/hangileri OPİ uygulaması aracılığıyla Merkeze iletilebilen işlem tiplerindendir?\nI. Döviz Transferi\nI\nI. Peşin İthalat Transferi\nI\nI\nI. Mal Mukabili İthalat Transferi\nI\nV. EFT\nV. Havale/Virman",
     "choices": [
       "Yalnız I",
       "IV ve V",
@@ -77,7 +77,7 @@
     "answer": 4
   },
   {
-    "question": "Vade(SİZ) İhracat Kredi Paketi ile ilgili olarak aşağıda yer alan bilgilerden hangisi/hangileri doğrudur?\nI. KOBİ dışı K/T segment müşterilerimiz kredi paketinden yararlanabilir.\nII. USD, EUR ve TL krediler kullandırılabilecek olup; kredilerin anapara ve faiz riski Bankamıza aittir.\nIII. Paket ile ihracatçı firmaların ihracat bedellerinden Bankamızın aldığı payın artırılması hedeflenmektedir.\nIV. Kredilerin tamamı ihracat taahhütlü olarak açıklanacaktır.\nV. Taksitli veya BCH şeklinde kullandırılabilir.",
+    "question": "Vade(SİZ) İhracat Kredi Paketi ile ilgili olarak aşağıda yer alan bilgilerden hangisi/hangileri doğrudur?\nI. KOBİ dışı K/T segment müşterilerimiz kredi paketinden yararlanabilir.\nI\nI. USD, EUR ve TL krediler kullandırılabilecek olup; kredilerin anapara ve faiz riski Bankamıza aittir.\nI\nI\nI. Paket ile ihracatçı firmaların ihracat bedellerinden Bankamızın aldığı payın artırılması hedeflenmektedir.\nI\nV. Kredilerin tamamı ihracat taahhütlü olarak açıklanacaktır.\nV. Taksitli veya BCH şeklinde kullandırılabilir.",
     "choices": [
       "Yalnız III",
       "I ve III",
@@ -99,7 +99,7 @@
     "answer": 2
   },
   {
-    "question": "Aşağıdakilerden hangisi/hangileri Orta Vadeli Programda yer alan makroekonomik hedef ve politikalardandır?\nI. Fiyat istikrarı\nII. Finansal istikrar\nIII. Yeşil dönüşüm\nIV. Dijital dönüşüm\nV. Afet yönetimi",
+    "question": "Aşağıdakilerden hangisi/hangileri Orta Vadeli Programda yer alan makroekonomik hedef ve politikalardandır?\nI. Fiyat istikrarı\nI\nI. Finansal istikrar\nI\nI\nI. Yeşil dönüşüm\nI\nV. Dijital dönüşüm\nV. Afet yönetimi",
     "choices": [
       "Yalnız I",
       "I ve II",
@@ -110,7 +110,7 @@
     "answer": 4
   },
   {
-    "question": "Süper Şube müşterileri, dijital bankacılık işlem setleri dahilinde olmayan işlem taleplerini hangi kanallar üzerinden gerçekleştirebilir/iletebilirler?\nI. Ziraat Mobil uygulaması Süper Şube menüsü içindeki “Talep/Belge Gönderimi” işlem adımı ile taleplerini iletebilirler.\nII. Tüm Şubelerimizden hizmet alabilir veya Süper Şube müşteri temsilcilerine iletilmek üzere taleplerini Şubelere bildirebilirler.\nIII. Süper Şube müşteri temsilcilerinin çağrı hattı telefon / cep telefonu numaralarını arayarak taleplerini iletebilirler.\nIV. Müşteri İletişim Merkezimiz aracılığı ile taleplerini iletebilirler.\nV. Süper Şube müşteri temsilcilerini 0212 392 92 92 numaralı hat üzerinden arayarak taleplerini iletebilirler.",
+    "question": "Süper Şube müşterileri, dijital bankacılık işlem setleri dahilinde olmayan işlem taleplerini hangi kanallar üzerinden gerçekleştirebilir/iletebilirler?\nI. Ziraat Mobil uygulaması Süper Şube menüsü içindeki “Talep/Belge Gönderimi” işlem adımı ile taleplerini iletebilirler.\nI\nI. Tüm Şubelerimizden hizmet alabilir veya Süper Şube müşteri temsilcilerine iletilmek üzere taleplerini Şubelere bildirebilirler.\nI\nI\nI. Süper Şube müşteri temsilcilerinin çağrı hattı telefon / cep telefonu numaralarını arayarak taleplerini iletebilirler.\nI\nV. Müşteri İletişim Merkezimiz aracılığı ile taleplerini iletebilirler.\nV. Süper Şube müşteri temsilcilerini 0212 392 92 92 numaralı hat üzerinden arayarak taleplerini iletebilirler.",
     "choices": [
       "Yalnız I",
       "I ve III",
@@ -121,7 +121,7 @@
     "answer": 2
   },
   {
-    "question": "Tarımın finansmanına yönelik krediler için düzenlenen raporlarda yer alan Nakit Akım Tablosundan elde edilecek gelir tutarı, aşağıda yer alan hangi kredi/kredilerin değerlendirilmesinde kullanılır?\nI. Tarımsal İşletme Kredisi\nII. Taksitli Tarım Destek Kredisi\nIII. Çiftçilerin Bireysel Kredi Talepleri",
+    "question": "Tarımın finansmanına yönelik krediler için düzenlenen raporlarda yer alan Nakit Akım Tablosundan elde edilecek gelir tutarı, aşağıda yer alan hangi kredi/kredilerin değerlendirilmesinde kullanılır?\nI. Tarımsal İşletme Kredisi\nI\nI. Taksitli Tarım Destek Kredisi\nI\nI\nI. Çiftçilerin Bireysel Kredi Talepleri",
     "choices": [
       "Yalnız I",
       "Yalnız II",
@@ -132,7 +132,7 @@
     "answer": 4
   },
   {
-    "question": "Tarımsal faaliyetlerde bulunan işletmeler/üreticiler için aşağıdakilerden hangilerine yönelik olarak yatırım kredisi kullandırılabilir?\nI. Makine, Ekipman Alımı\nII. Besi Hayvanı Alımı\nIII. Arazi Alımı\nIV. Soğuk Hava Deposu Kurulumu",
+    "question": "Tarımsal faaliyetlerde bulunan işletmeler/üreticiler için aşağıdakilerden hangilerine yönelik olarak yatırım kredisi kullandırılabilir?\nI. Makine, Ekipman Alımı\nI\nI. Besi Hayvanı Alımı\nI\nI\nI. Arazi Alımı\nI\nV. Soğuk Hava Deposu Kurulumu",
     "choices": [
       "Yalnız I",
       "II ve III",
@@ -165,7 +165,7 @@
     "answer": 3
   },
   {
-    "question": "Aşağıdaki risk türü – risk unsuru eşleştirmelerinden hangisi/hangileri doğru değildir?\nI. İlişkili Risk – Grup firmalarının ve ortaklarının üçüncü kişiler lehine verdikleri kefaletler\nII. Grup Riski – Grup firmalarının çalışanlarının bireysel kredi riskleri\nIII. Bireysel Risk – Grup firmalarının ortakları şahısların açılan bireysel kredileri\nIV. Limit Riski – Grup firmaları ve ortakları tarafından kullanılan firmaların limitleri dahilinde kullandırılan kredilerin toplam senet tutarları",
+    "question": "Aşağıdaki risk türü – risk unsuru eşleştirmelerinden hangisi/hangileri doğru değildir?\nI. İlişkili Risk – Grup firmalarının ve ortaklarının üçüncü kişiler lehine verdikleri kefaletler\nI\nI. Grup Riski – Grup firmalarının çalışanlarının bireysel kredi riskleri\nI\nI\nI. Bireysel Risk – Grup firmalarının ortakları şahısların açılan bireysel kredileri\nI\nV. Limit Riski – Grup firmaları ve ortakları tarafından kullanılan firmaların limitleri dahilinde kullandırılan kredilerin toplam senet tutarları",
     "choices": [
       "Yalnız I",
       "I ve II",
@@ -187,7 +187,7 @@
     "answer": 3
   },
   {
-    "question": "Müşteri işlemlerinin dijital kanallara yönlendirilmesini, yoğunluğun optimum düzeyde yönetilerek verimliliğin artırılmasını amaçlayan OPİ uygulaması ile aşağıdaki işlemlerden hangileri gerçekleştirilebilmektedir?\nI. Toplu Döviz Transferi\nII. Toplu Peşin İthalat Transferi\nIII. Toplu Mal Mukabili İthalat Transferi",
+    "question": "Müşteri işlemlerinin dijital kanallara yönlendirilmesini, yoğunluğun optimum düzeyde yönetilerek verimliliğin artırılmasını amaçlayan OPİ uygulaması ile aşağıdaki işlemlerden hangileri gerçekleştirilebilmektedir?\nI. Toplu Döviz Transferi\nI\nI. Toplu Peşin İthalat Transferi\nI\nI\nI. Toplu Mal Mukabili İthalat Transferi",
     "choices": [
       "Yalnız I",
       "I ve III",
@@ -209,7 +209,7 @@
     "answer": 3
   },
   {
-    "question": "Ana firma tanımı ile ilgili hangisi/hangileri doğrudur?\nI. Grup firmalarının tamamı turizm firmalarından oluşan gruplarda ana firma son mali yılı cirosu en yüksek olan firma olarak belirlenmelidir.\nII. Ana Firma tanımı KAR/FAR süreci tamamlandıktan sonra yapılır.\nIII. Tamamı tarım sektöründe faaliyet gösteren gerçek kişi işletmelerden oluşan gruplar için ana firma tanımı yapılmaz.\nIV. Bir risk grubunun tamamı taahhüt firmalarından oluşuyorsa, ana firma seçimi yapılırken referans limiti en büyük olan dikkate alınır.",
+    "question": "Ana firma tanımı ile ilgili hangisi/hangileri doğrudur?\nI. Grup firmalarının tamamı turizm firmalarından oluşan gruplarda ana firma son mali yılı cirosu en yüksek olan firma olarak belirlenmelidir.\nI\nI. Ana Firma tanımı KAR/FAR süreci tamamlandıktan sonra yapılır.\nI\nI\nI. Tamamı tarım sektöründe faaliyet gösteren gerçek kişi işletmelerden oluşan gruplar için ana firma tanımı yapılmaz.\nI\nV. Bir risk grubunun tamamı taahhüt firmalarından oluşuyorsa, ana firma seçimi yapılırken referans limiti en büyük olan dikkate alınır.",
     "choices": [
       "Yalnız I",
       "I ve II",
@@ -220,7 +220,7 @@
     "answer": 3
   },
   {
-    "question": "I. Bireysel kredi borçlusunun birden fazla kredi hesabına konu borçları birden fazla ihtara konu edilmiş olsa dahi tüm kredi alacakları için tek bir takip açılması esastır.\nII. İcra takip işlemlerine, tüm teminatlar üzerinden eş zamanlı olarak geçilmesi esas olduğundan bütün teminatların takip sürecine dahil edilmesi sağlanmalıdır.\nIII. Tahsilinde borçlunun kullandığı kredilere mahsup edilmek üzere Bankamıza ciro edilen çekler, alacağın TOA hesaplarına intikali halinde Bankaca da ciro edilmek suretiyle takasa ibraz edilerek tahsil edilmeli, tahsil edilmemesi halinde Kambiyo Senetlerine Özgü Takip başlatılmalıdır.\nYasal takip ve tahsil işlemleri ile ilgili yukarıdakilerden hangileri doğrudur?",
+    "question": "I. Bireysel kredi borçlusunun birden fazla kredi hesabına konu borçları birden fazla ihtara konu edilmiş olsa dahi tüm kredi alacakları için tek bir takip açılması esastır.\nI\nI. İcra takip işlemlerine, tüm teminatlar üzerinden eş zamanlı olarak geçilmesi esas olduğundan bütün teminatların takip sürecine dahil edilmesi sağlanmalıdır.\nI\nI\nI. Tahsilinde borçlunun kullandığı kredilere mahsup edilmek üzere Bankamıza ciro edilen çekler, alacağın TOA hesaplarına intikali halinde Bankaca da ciro edilmek suretiyle takasa ibraz edilerek tahsil edilmeli, tahsil edilmemesi halinde Kambiyo Senetlerine Özgü Takip başlatılmalıdır. Yasal takip ve tahsil işlemleri ile ilgili yukarıdakilerden hangileri doğrudur?",
     "choices": [
       "Yalnız I",
       "I ve II",
@@ -253,7 +253,7 @@
     "answer": 3
   },
   {
-    "question": "Bir işi başlatmak ve çalışır halde tutmak için gerekli fonlar toplanmalıdır.\nMüşterinin gelir elde etme potansiyelinin ölçülerek, faaliyetlerinden elde ettiği gelirin gelecekte göstereceği gelişim ile firmanın aldığı borçları, kendi faaliyetleri ile ödeyip ödeyemeyeceğinin tespiti edilmelidir.\nKredilendirmede genel kabul görmüş bazı temel ilkeler vardır. “5K” olarak ifade edilir. Aşağıdakilerden hangisi söz konusu ilkelerin sırasıyla doğru tanımını vermektedir?\nI – Karşılık\nII – Kapital\nIII – Kapasite\nIV – Koşullar",
+    "question": "Bir işi başlatmak ve çalışır halde tutmak için gerekli fonlar toplanmalıdır.\nMüşterinin gelir elde etme potansiyelinin ölçülerek, faaliyetlerinden elde ettiği gelirin gelecekte göstereceği gelişim ile firmanın aldığı borçları, kendi faaliyetleri ile ödeyip ödeyemeyeceğinin tespiti edilmelidir. Kredilendirmede genel kabul görmüş bazı temel ilkeler vardır. “5K” olarak ifade edilir. Aşağıdakilerden hangisi söz konusu ilkelerin sırasıyla doğru tanımını vermektedir? I – Karşılık II – Kapital III – Kapasite IV – Koşullar",
     "choices": [
       "Karşılık – Kapital",
       "Kapital – Kapasite",
@@ -264,7 +264,7 @@
     "answer": 1
   },
   {
-    "question": "Yatırım Kredilerinin kullandırımına yönelik aşağıdakilerden hangisi yanlıştır?\nI. Anlaşma olmayan firmalarda, kredi müşterinin vadesiz hesabına kullandırılır, 1 hafta bloke edildikten sonra havale/eft şeklinde ilgili firmaya hesaptan aktarılır.\nII. Yatırımın bitmesi beklenmeden tüm kredi blok kullandırılıp vadesiz hesaba ihtiyat bloku konulur ve sonrasında çözülerek firma hesabına sitüasyon usulü havale/eft yapılır.\nIII. Kredi önce hesaba kullandırılır ve vadesiz mevduat ortalamasını artırmak için hesapta tutulur.\nIV. Yatırım unsuru girdinin alınıp alınmamasına bakılmaksızın direkt bayi/satıcı hesabına havale/eft yapılır.",
+    "question": "Yatırım Kredilerinin kullandırımına yönelik aşağıdakilerden hangisi yanlıştır?\nI. Anlaşma olmayan firmalarda, kredi müşterinin vadesiz hesabına kullandırılır, 1 hafta bloke edildikten sonra havale/eft şeklinde ilgili firmaya hesaptan aktarılır.\nI\nI. Yatırımın bitmesi beklenmeden tüm kredi blok kullandırılıp vadesiz hesaba ihtiyat bloku konulur ve sonrasında çözülerek firma hesabına sitüasyon usulü havale/eft yapılır.\nI\nI\nI. Kredi önce hesaba kullandırılır ve vadesiz mevduat ortalamasını artırmak için hesapta tutulur.\nI\nV. Yatırım unsuru girdinin alınıp alınmamasına bakılmaksızın direkt bayi/satıcı hesabına havale/eft yapılır.",
     "choices": [
       "Yalnız I",
       "I ve II",
@@ -275,7 +275,7 @@
     "answer": 4
   },
   {
-    "question": "Firmaların Yurt Dışı Kaynaklı Dövizlerinin Türk Lirasına Dönüşümünün Desteklenmesi Hakkındaki Tebliğe ilişkin uygulama talimatı uyarınca aşağıdakilerden hangisi doğrudur?\nI. Firmalar yalnızca mal ihracatı veya hizmet karşılığı kazandırdıkları dövizlerin Türk Lirasına çevrilmesinde Döviz Dönüşüm Desteği Priminden yararlanabilmektedir.\nII. Yurt dışı kaynaklı dövizlerin Türk lirası vadeli mevduat ve katılım hesaplarına dönüştürülmesinde döviz dönüşüm desteği sağlanmaktadır.\nIII. Döviz dönüşüm desteğinden usulsüz olarak yararlanılması veya Merkez Bankasına yanlış beyanda bulunan firmalar 3 yıl süreyle değerlendirmeye alınmaz.",
+    "question": "Firmaların Yurt Dışı Kaynaklı Dövizlerinin Türk Lirasına Dönüşümünün Desteklenmesi Hakkındaki Tebliğe ilişkin uygulama talimatı uyarınca aşağıdakilerden hangisi doğrudur?\nI. Firmalar yalnızca mal ihracatı veya hizmet karşılığı kazandırdıkları dövizlerin Türk Lirasına çevrilmesinde Döviz Dönüşüm Desteği Priminden yararlanabilmektedir.\nI\nI. Yurt dışı kaynaklı dövizlerin Türk lirası vadeli mevduat ve katılım hesaplarına dönüştürülmesinde döviz dönüşüm desteği sağlanmaktadır.\nI\nI\nI. Döviz dönüşüm desteğinden usulsüz olarak yararlanılması veya Merkez Bankasına yanlış beyanda bulunan firmalar 3 yıl süreyle değerlendirmeye alınmaz.",
     "choices": [
       "Yalnız I",
       "I ve II",
@@ -286,7 +286,7 @@
     "answer": 3
   },
   {
-    "question": "Başak Model Anında Limit uygulaması ile ilgili aşağıdakilerden hangisi doğrudur?\nI. Tek bir buton ile kredibilite değerlendirmesi yapılmaktadır.\nII. Otomatik düzenlenen nakit akım projeksiyonu üzerinden vadelere göre farklaşan, kullanıma hazır yatırım kredisi limitleri belirlenmektedir.\nIII. Müşterilerin işletme sermayesi ihtiyaçları güncellenmektedir.",
+    "question": "Başak Model Anında Limit uygulaması ile ilgili aşağıdakilerden hangisi doğrudur?\nI. Tek bir buton ile kredibilite değerlendirmesi yapılmaktadır.\nI\nI. Otomatik düzenlenen nakit akım projeksiyonu üzerinden vadelere göre farklaşan, kullanıma hazır yatırım kredisi limitleri belirlenmektedir.\nI\nI\nI. Müşterilerin işletme sermayesi ihtiyaçları güncellenmektedir.",
     "choices": [
       "I ve II",
       "Yalnız II",
@@ -297,7 +297,7 @@
     "answer": 4
   },
   {
-    "question": "Kesintisiz Vadeli Mevduat ürünü ile ilgili aşağıdakilerden hangisi doğrudur?\nI. Hesap TL olarak 32–364 gün arası vadelerde, gerçek ve tüzel kişi müşteriler için açılabilmektedir.\nII. Anapara bakiyesinin %50’sine kadar olmak üzere istenildiği zaman hesaptan para çekilebilmektedir.\nIII. Tüm para çekme işlemleriyle birlikte hesabın bakiyesi, vade başındaki anapara bakiyesinin %50’sinin altına düşemez.\nIV. Hesaba istenildiği zaman para yatırma işlemi gerçekleştirilebilmektedir.",
+    "question": "Kesintisiz Vadeli Mevduat ürünü ile ilgili aşağıdakilerden hangisi doğrudur?\nI. Hesap TL olarak 32–364 gün arası vadelerde, gerçek ve tüzel kişi müşteriler için açılabilmektedir.\nI\nI. Anapara bakiyesinin %50’sine kadar olmak üzere istenildiği zaman hesaptan para çekilebilmektedir.\nI\nI\nI. Tüm para çekme işlemleriyle birlikte hesabın bakiyesi, vade başındaki anapara bakiyesinin %50’sinin altına düşemez.\nI\nV. Hesaba istenildiği zaman para yatırma işlemi gerçekleştirilebilmektedir.",
     "choices": [
       "I ve II",
       "II ve III",
@@ -308,7 +308,7 @@
     "answer": 1
   },
   {
-    "question": "Döviz geliri olmayan Türkiye’de yerleşik kişiler yurt içinden ve yurt dışından döviz kredisi kullanamazlar ancak istisnaları mevcuttur.\nAşağıdakilerin hangisinde döviz geliri olması şartı aranmaz?\nI. Kamu kurum ve kuruluşlarının kullanacakları döviz kredileri\nII. Bankaların kullanacakları döviz kredileri\nIII. Kullanım tarihindeki mevcut kredi bakiyesi 10 milyon ABD doları veya üzerinde olan Türkiye’de yerleşik kişilere kullandırılacak döviz kredileri\nIV. Türkiye’de yerleşik finansal kiralama şirketlerinin kullanacakları döviz kredileri",
+    "question": "Döviz geliri olmayan Türkiye’de yerleşik kişiler yurt içinden ve yurt dışından döviz kredisi kullanamazlar ancak istisnaları mevcuttur.\nAşağıdakilerin hangisinde döviz geliri olması şartı aranmaz?\nI. Kamu kurum ve kuruluşlarının kullanacakları döviz kredileri\nI\nI. Bankaların kullanacakları döviz kredileri\nI\nI\nI. Kullanım tarihindeki mevcut kredi bakiyesi 10 milyon ABD doları veya üzerinde olan Türkiye’de yerleşik kişilere kullandırılacak döviz kredileri\nI\nV. Türkiye’de yerleşik finansal kiralama şirketlerinin kullanacakları döviz kredileri",
     "choices": [
       "Yalnız I",
       "Yalnız II",
@@ -319,7 +319,7 @@
     "answer": 3
   },
   {
-    "question": "Aşağıdakilerden hangisi “Yeni Müşteri” ile ilgili doğru bir ifadedir?\nI. MONO’su ilk kez oluşturulan müşteriler 6 ay süresince yeni müşteri kabul edilir.\nII. MONO’sunun oluşturulma tarihinden itibaren 6 ay içinde aktifliğini sağlayan müşteriler 2 yıl süresince yeni müşteri kabul edilir.\nIII. Revizyon tarihi üzerinden 2 yıl geçtikten sonra limiti onaylananlar da dahil olmak üzere kurumsal kredi limiti ilk kez onaylanan müşteriler yeni müşteri kabul edilir.\nIV. Son iki yıl inaktif olup, aktiflik kriterlerini sağlayan müşteriler yeni müşteri kabul edilir.\nV. Şubeler arası devir olan müşteriler devir onay tarihinden sonra 6 ay süresince yeni müşteri kabul edilir.",
+    "question": "Aşağıdakilerden hangisi “Yeni Müşteri” ile ilgili doğru bir ifadedir?\nI. MONO’su ilk kez oluşturulan müşteriler 6 ay süresince yeni müşteri kabul edilir.\nI\nI. MONO’sunun oluşturulma tarihinden itibaren 6 ay içinde aktifliğini sağlayan müşteriler 2 yıl süresince yeni müşteri kabul edilir.\nI\nI\nI. Revizyon tarihi üzerinden 2 yıl geçtikten sonra limiti onaylananlar da dahil olmak üzere kurumsal kredi limiti ilk kez onaylanan müşteriler yeni müşteri kabul edilir.\nI\nV. Son iki yıl inaktif olup, aktiflik kriterlerini sağlayan müşteriler yeni müşteri kabul edilir.\nV. Şubeler arası devir olan müşteriler devir onay tarihinden sonra 6 ay süresince yeni müşteri kabul edilir.",
     "choices": [
       "I, II, III",
       "I, II, IV",
@@ -330,7 +330,7 @@
     "answer": 2
   },
   {
-    "question": "Dinamik İşletme Kredisi ile ilgili olarak aşağıda belirtilen ifadelerden hangisi/hangileri doğrudur?\nI. Bankamızca kredilendirilmesinde idari/yasal engel bulunmayan, ticari segmentte izlenen müşterilerimiz yararlanabilmektedir.\nII. Kredinin azami limiti 5.000.000 TL’dir.\nIII. Kredinin asgari vadesi 24 ay, azami vadesi ise 60 aydır.\nIV. Ticari Büyük segmentte izlenen aktif müşteriler için faiz oranı %48’dir.\nV. Diğer ticari segmentlerde izlenen müşterilerde, Bankkart Başak, Üye İşyeri, Nakit Akış Yönetimi, Firma Maaş, Ödeme ve Sigorta kriterlerinden en az 2’si aktifse faiz oranı %48’tir.\nVI. Kredi faiz oranı %48’den yararlanamayan ticari segment müşterilerine kredi %52 faiz oranıyla kullandırılabilir.",
+    "question": "Dinamik İşletme Kredisi ile ilgili olarak aşağıda belirtilen ifadelerden hangisi/hangileri doğrudur?\nI. Bankamızca kredilendirilmesinde idari/yasal engel bulunmayan, ticari segmentte izlenen müşterilerimiz yararlanabilmektedir.\nI\nI. Kredinin azami limiti 5.000.000 TL’dir.\nI\nI\nI. Kredinin asgari vadesi 24 ay, azami vadesi ise 60 aydır.\nI\nV. Ticari Büyük segmentte izlenen aktif müşteriler için faiz oranı %48’dir.\nV. Diğer ticari segmentlerde izlenen müşterilerde, Bankkart Başak, Üye İşyeri, Nakit Akış Yönetimi, Firma Maaş, Ödeme ve Sigorta kriterlerinden en az 2’si aktifse faiz oranı %48’tir. V\nI. Kredi faiz oranı %48’den yararlanamayan ticari segment müşterilerine kredi %52 faiz oranıyla kullandırılabilir.",
     "choices": [
       "I, II, III",
       "II, III, IV",
@@ -341,7 +341,7 @@
     "answer": 4
   },
   {
-    "question": "Aşağıdaki işlemlerin hangisinde İhracat Bedeli Kabul Belgesi / Döviz Alım Belgesi zorunluluğu bulunmamaktadır?\nI. Serbest bölgelere yapılan ihracat işlemleri\nII. K.K.T.C’ye yapılan ihracat işlemleri\nIII. Türk Lirası olarak yapılan ihracat işlemleri\nIV. Türk Silahlı Kuvvetlerini Güçlendirme Vakfı Şirketleri ve Makine ve Kimya Endüstrisi A.Ş. tarafından yapılan ihracat işlemleri\nV. Hizmet ihracatı, transit ticaret, Türkiye’de ikamet etmeyenlere özel fatura ile yapılan satış, Türkiye’de ikamet etmeyenlere KDV hesaplanarak yapılan satışlar, mikro ihracat ve serbest bölge işlem formu kapsamında gerçekleştirilen 5.000 USD veya karşılığı döviz ya da TL’yi geçmeyen tutardaki ihracat işlemleri",
+    "question": "Aşağıdaki işlemlerin hangisinde İhracat Bedeli Kabul Belgesi / Döviz Alım Belgesi zorunluluğu bulunmamaktadır?\nI. Serbest bölgelere yapılan ihracat işlemleri\nI\nI. K.K.T.C’ye yapılan ihracat işlemleri\nI\nI\nI. Türk Lirası olarak yapılan ihracat işlemleri\nI\nV. Türk Silahlı Kuvvetlerini Güçlendirme Vakfı Şirketleri ve Makine ve Kimya Endüstrisi A.Ş. tarafından yapılan ihracat işlemleri\nV. Hizmet ihracatı, transit ticaret, Türkiye’de ikamet etmeyenlere özel fatura ile yapılan satış, Türkiye’de ikamet etmeyenlere KDV hesaplanarak yapılan satışlar, mikro ihracat ve serbest bölge işlem formu kapsamında gerçekleştirilen 5.000 USD veya karşılığı döviz ya da TL’yi geçmeyen tutardaki ihracat işlemleri",
     "choices": [
       "I, II, III",
       "I, IV",
@@ -363,7 +363,7 @@
     "answer": 0
   },
   {
-    "question": "Borsa İstanbul Pay Piyasası takas süreci ile ilgili aşağıdakilerden hangisi yanlıştır?\nI. Borsa işlem günü (T+0)’da MKK sisteminde takas amaçlı virman blokaj işlemleri yapılır.\nII. (T+1)’de takas borçları kapatılır.\nIII. (T+2)’de sözleşme düzeltme işlemleri yapılır.",
+    "question": "Borsa İstanbul Pay Piyasası takas süreci ile ilgili aşağıdakilerden hangisi yanlıştır?\nI. Borsa işlem günü (T+0)’da MKK sisteminde takas amaçlı virman blokaj işlemleri yapılır.\nI\nI. (T+1)’de takas borçları kapatılır.\nI\nI\nI. (T+2)’de sözleşme düzeltme işlemleri yapılır.",
     "choices": [
       "Yalnız I",
       "I ve II",
@@ -385,7 +385,7 @@
     "answer": 2
   },
   {
-    "question": "Bir işletmeye ait bilgiler:\nStok Devir Süresi: 120 gün\nOrtalama Ticari Alacaklar: 1.000.000 TL\nBorç Ödeme Süresi: 130 gün\nNet Satışlar: 3.650.000 TL\nBu bilgilere göre işletmenin Finansman Süresi kaç gündür?",
+    "question": "Bir işletmeye ait bilgiler:\nStok Devir Süresi: 120 gün Ortalama Ticari Alacaklar: 1.000.000 TL Borç Ödeme Süresi: 130 gün Net Satışlar: 3.650.000 TL Bu bilgilere göre işletmenin Finansman Süresi kaç gündür?",
     "choices": [
       "90",
       "100",
@@ -396,7 +396,7 @@
     "answer": 0
   },
   {
-    "question": "Sayım, Saklama ve Kasa işlemleri ile ilgili olarak aşağıdakilerden hangisi/hangileri doğrudur?\nI. Arka ofis yönetiminden sorumlu personel OSK’nın doğal üyesidir.\nII. Şubede OSK’nın arka ofis personelince oluşturulması esastır; arka ofiste görevli personel yetersizse Banko Asistanı ile tamamlanır.\nIII. Kamera görüş açısı dışında para sayımı yapılmaz.\nIV. Banka lehine ciro edilen senet ve çekler emaneten kasada saklanır.",
+    "question": "Sayım, Saklama ve Kasa işlemleri ile ilgili olarak aşağıdakilerden hangisi/hangileri doğrudur?\nI. Arka ofis yönetiminden sorumlu personel OSK’nın doğal üyesidir.\nI\nI. Şubede OSK’nın arka ofis personelince oluşturulması esastır; arka ofiste görevli personel yetersizse Banko Asistanı ile tamamlanır.\nI\nI\nI. Kamera görüş açısı dışında para sayımı yapılmaz.\nI\nV. Banka lehine ciro edilen senet ve çekler emaneten kasada saklanır.",
     "choices": [
       "Yalnız I",
       "I ve III",
@@ -407,7 +407,7 @@
     "answer": 4
   },
   {
-    "question": "Sır Niteliğindeki Bilgilerin Paylaşılması Hakkında Yönetmelik çerçevesinde aşağıda yer alanlardan hangisi/hangileri doğrudur?\nI. Banka ve müşteri sırları görevden ayrıldıktan sonra da gizliliğini korur.\nII. Bankacılık faaliyetlerine özgü müşteri bilgileri müşteri sırrı niteliğindedir.\nIII. Kanunen yetkili mercilerle paylaşım gizlilik ihlali sayılmaz.",
+    "question": "Sır Niteliğindeki Bilgilerin Paylaşılması Hakkında Yönetmelik çerçevesinde aşağıda yer alanlardan hangisi/hangileri doğrudur?\nI. Banka ve müşteri sırları görevden ayrıldıktan sonra da gizliliğini korur.\nI\nI. Bankacılık faaliyetlerine özgü müşteri bilgileri müşteri sırrı niteliğindedir.\nI\nI\nI. Kanunen yetkili mercilerle paylaşım gizlilik ihlali sayılmaz.",
     "choices": [
       "Yalnız I",
       "Yalnız II",
@@ -429,7 +429,7 @@
     "answer": 2
   },
   {
-    "question": "KOSGEB Kapasite Geliştirme Kredisi ve KOSGEB Küresel Rekabetçilik Kredisinin yer aldığı kredi paketi ile ilgili hangisi doğrudur?\nI. Asgari kullandırım tutarı sınırlaması yoktur.\nII. Makine-teçhizat dışındaki gider kalemlerinde harcama belgesi aranmaz.\nIII. Kredi tutarları müşteri hesabına aktarılıp vadeli mevduata dönüştürülür.",
+    "question": "KOSGEB Kapasite Geliştirme Kredisi ve KOSGEB Küresel Rekabetçilik Kredisinin yer aldığı kredi paketi ile ilgili hangisi doğrudur?\nI. Asgari kullandırım tutarı sınırlaması yoktur.\nI\nI. Makine-teçhizat dışındaki gider kalemlerinde harcama belgesi aranmaz.\nI\nI\nI. Kredi tutarları müşteri hesabına aktarılıp vadeli mevduata dönüştürülür.",
     "choices": [
       "Yalnız I",
       "I ve II",
@@ -440,7 +440,7 @@
     "answer": 4
   },
   {
-    "question": "I. Eurobond\nII. Ziraat Portföy Borçlanma Araçları Fonu\nIII. Ziraat Portföy Para Piyasası Fonu\nIV. Bireysel Emeklilik Sistemi (BES) Birikimi\nV. Gelire Endeksli Devlet İç Borçlanma Senedi\nYukarıdakilerden hangisi/hangileri bireysel kredi işlemlerinde teminat olarak alınabilecek nakit veya nakit benzeri değerlerdendir?",
+    "question": "I. Eurobond\nI\nI. Ziraat Portföy Borçlanma Araçları Fonu\nI\nI\nI. Ziraat Portföy Para Piyasası Fonu\nI\nV. Bireysel Emeklilik Sistemi (BES) Birikimi\nV. Gelire Endeksli Devlet İç Borçlanma Senedi Yukarıdakilerden hangisi/hangileri bireysel kredi işlemlerinde teminat olarak alınabilecek nakit veya nakit benzeri değerlerdendir?",
     "choices": [
       "Yalnız III",
       "I ve III",
@@ -462,7 +462,7 @@
     "answer": 4
   },
   {
-    "question": "“Köyümde Yaşamak İçin Bir Sürü Nedenim Var - Küçükbaş Hayvancılık Projesi” kapsamında kullanılabilecek kredilerle ilgili hangisi doğrudur?\nI. Bir üretici proje kapsamında yalnız bir kez kredi kullanabilir.\nII. Toplam kredi limiti azami 1.200.000 TL’dir.\nIII. Yatırım kredisi azami 84 ay, işletme kredisi azami 48 aydır.",
+    "question": "“Köyümde Yaşamak İçin Bir Sürü Nedenim Var - Küçükbaş Hayvancılık Projesi” kapsamında kullanılabilecek kredilerle ilgili hangisi doğrudur?\nI. Bir üretici proje kapsamında yalnız bir kez kredi kullanabilir.\nI\nI. Toplam kredi limiti azami 1.200.000 TL’dir.\nI\nI\nI. Yatırım kredisi azami 84 ay, işletme kredisi azami 48 aydır.",
     "choices": [
       "I ve II",
       "Yalnız II",
@@ -473,7 +473,7 @@
     "answer": 4
   },
   {
-    "question": "TOBB Nefes Kredisi ile ilgili hangisi yanlıştır?\nI. Eczaneler, kooperatifler, faktoring şirketleri yararlanamaz.\nII. Vade azami 36 aydır.\nIII. Tüm illerde kredi limiti 2,5 milyon TL’dir.",
+    "question": "TOBB Nefes Kredisi ile ilgili hangisi yanlıştır?\nI. Eczaneler, kooperatifler, faktoring şirketleri yararlanamaz.\nI\nI. Vade azami 36 aydır.\nI\nI\nI. Tüm illerde kredi limiti 2,5 milyon TL’dir.",
     "choices": [
       "Yalnız I",
       "I ve II",
@@ -495,7 +495,7 @@
     "answer": 0
   },
   {
-    "question": "Mevduat ve katılım fonu sigortası ile ilgili yukarıdakilerden hangisi/hangileri doğrudur?\nI. 2025 yılı için sigortaya tabi mevduat ve katılım fonu limiti her bir kredi kuruluşunda her bir kişi için 950.000 Türk Lirası’dır.\nII. Türkiye’de faaliyet gösteren kredi kuruluşlarının yurt içi şubelerindeki resmi kuruluşlar, kredi kuruluşları ve finansal kuruluşlara ait olanlar haricindeki mevduat ve katılım fonları (tasarruf mevduatı, ticari kuruluşlar mevduatı ve diğer kuruluşlar mevduatı) sigorta kapsamındadır.\nIII. Bir kişinin hem mevduat hem de katılım bankasında bulunan hesaplarına ilişkin sigorta tutarı her bir kredi kuruluşu için ayrı ayrı hesaplanır.\nIV. Kredi kuruluşları tarafından satışına aracılık edilen devlet tahvili, hazine bonosu, yatırım fonu gibi yatırım araçları ile kripto varlıklar Tasarruf Mevduatı Sigorta Fonu tarafından sigorta edilmemektedir.",
+    "question": "Mevduat ve katılım fonu sigortası ile ilgili yukarıdakilerden hangisi/hangileri doğrudur?\nI. 2025 yılı için sigortaya tabi mevduat ve katılım fonu limiti her bir kredi kuruluşunda her bir kişi için 950.000 Türk Lirası’dır.\nI\nI. Türkiye’de faaliyet gösteren kredi kuruluşlarının yurt içi şubelerindeki resmi kuruluşlar, kredi kuruluşları ve finansal kuruluşlara ait olanlar haricindeki mevduat ve katılım fonları (tasarruf mevduatı, ticari kuruluşlar mevduatı ve diğer kuruluşlar mevduatı) sigorta kapsamındadır.\nI\nI\nI. Bir kişinin hem mevduat hem de katılım bankasında bulunan hesaplarına ilişkin sigorta tutarı her bir kredi kuruluşu için ayrı ayrı hesaplanır.\nI\nV. Kredi kuruluşları tarafından satışına aracılık edilen devlet tahvili, hazine bonosu, yatırım fonu gibi yatırım araçları ile kripto varlıklar Tasarruf Mevduatı Sigorta Fonu tarafından sigorta edilmemektedir.",
     "choices": [
       "Yalnız I",
       "I ve II",
@@ -506,7 +506,7 @@
     "answer": 4
   },
   {
-    "question": "Avantajlı Vadeli Hesap ve Kesintisiz Vadeli Hesap ürünlerinin ortak özellikleri hangileridir?\nI. 32–364 gün vade aralığında açılır.\nII. 100.000–10.000.000 TL arası bakiye ile açılır.\nIII. Vadesiz hesap ve kredi kartı işlemleriyle ilave faiz kazandırır.\nIV. Vade içinde anaparanın %50’sine kadar para çekilebilir.",
+    "question": "Avantajlı Vadeli Hesap ve Kesintisiz Vadeli Hesap ürünlerinin ortak özellikleri hangileridir?\nI. 32–364 gün vade aralığında açılır.\nI\nI. 100.000–10.000.000 TL arası bakiye ile açılır.\nI\nI\nI. Vadesiz hesap ve kredi kartı işlemleriyle ilave faiz kazandırır.\nI\nV. Vade içinde anaparanın %50’sine kadar para çekilebilir.",
     "choices": [
       "Yalnız I",
       "I ve IV",
@@ -539,7 +539,7 @@
     "answer": 3
   },
   {
-    "question": "Faizsiz Sonradan Taksitlendirme uygulaması hangi sektörlerde geçerlidir?\nI. Kamu Ödemeleri\nII. Sağlık\nIII. Eğitim\nIV. Turizm",
+    "question": "Faizsiz Sonradan Taksitlendirme uygulaması hangi sektörlerde geçerlidir?\nI. Kamu Ödemeleri\nI\nI. Sağlık\nI\nI\nI. Eğitim\nI\nV. Turizm",
     "choices": [
       "I ve II",
       "II ve III",
@@ -550,7 +550,7 @@
     "answer": 3
   },
   {
-    "question": "İGE YP İhracat Kredi Paketi ile ilgili aşağıdakilerden hangisi doğrudur?\nI. Kredinin azami limiti KOBİ’ler için 30 Milyon TL (karşılığı YP)’dir.\nII. Kredi faiz oranı USD için %9,50, EUR için %8,50’dir.\nIII. Kefalet başvurusu için başvuru ücreti 6.000 TL’dir.",
+    "question": "İGE YP İhracat Kredi Paketi ile ilgili aşağıdakilerden hangisi doğrudur?\nI. Kredinin azami limiti KOBİ’ler için 30 Milyon TL (karşılığı YP)’dir.\nI\nI. Kredi faiz oranı USD için %9,50, EUR için %8,50’dir.\nI\nI\nI. Kefalet başvurusu için başvuru ücreti 6.000 TL’dir.",
     "choices": [
       "Yalnız I",
       "I ve II",
@@ -583,7 +583,7 @@
     "answer": 4
   },
   {
-    "question": "Mevduat ve katılım fonu sigortası ile ilgili yukarıdakilerden hangisi/hangileri doğrudur?\nI. 2025 yılı için sigortaya tabi mevduat ve katılım fonu limiti her bir kredi kuruluşunda her bir kişi için 950.000 Türk Lirası'dır.\nII. Türkiye'de faaliyet gösteren kredi kuruluşlarının yurt içi şubelerindeki resmi kuruluşlar, kredi kuruluşları ve finansal kuruluşlara ait olanlar haricindeki mevduat ve katılım fonları (tasarruf mevduatı, ticari kuruluşlar mevduatı ve diğer kuruluşlar mevduatı) sigorta kapsamındadır.\nIII. Bir kişinin hem mevduat hem de katılım bankasında bulunan hesaplarına ilişkin sigorta tutarı her bir kredi kuruluşu için ayrı ayrı hesaplanır.\nIV. Kredi kuruluşları tarafından satışına aracılık edilen devlet tahvili, hazine bonosu, yatırım fonu gibi yatırım araçları ile kripto varlıklar Tasarruf Mevduatı Sigorta Fonu tarafından sigorta edilmemektedir.",
+    "question": "Mevduat ve katılım fonu sigortası ile ilgili yukarıdakilerden hangisi/hangileri doğrudur?\nI. 2025 yılı için sigortaya tabi mevduat ve katılım fonu limiti her bir kredi kuruluşunda her bir kişi için 950.000 Türk Lirası'dır.\nI\nI. Türkiye'de faaliyet gösteren kredi kuruluşlarının yurt içi şubelerindeki resmi kuruluşlar, kredi kuruluşları ve finansal kuruluşlara ait olanlar haricindeki mevduat ve katılım fonları (tasarruf mevduatı, ticari kuruluşlar mevduatı ve diğer kuruluşlar mevduatı) sigorta kapsamındadır.\nI\nI\nI. Bir kişinin hem mevduat hem de katılım bankasında bulunan hesaplarına ilişkin sigorta tutarı her bir kredi kuruluşu için ayrı ayrı hesaplanır.\nI\nV. Kredi kuruluşları tarafından satışına aracılık edilen devlet tahvili, hazine bonosu, yatırım fonu gibi yatırım araçları ile kripto varlıklar Tasarruf Mevduatı Sigorta Fonu tarafından sigorta edilmemektedir.",
     "choices": [
       "Yalnız I",
       "I ve II",
@@ -594,7 +594,7 @@
     "answer": 3
   },
   {
-    "question": "İGE YP İhracat Kredi Paketi ile ilgili aşağıdakilerden hangisi doğrudur?\nI. Kredinin azami limiti KOBİ'ler için 30 Milyon TL (Karşılığı YP)'dir.\nII. Kredi faiz oranı USD için 9,50%, EURO için 8,50%'dir.\nIII. Kefalet başvurusu için başvuru ücreti 6.000 TL'dir.",
+    "question": "İGE YP İhracat Kredi Paketi ile ilgili aşağıdakilerden hangisi doğrudur?\nI. Kredinin azami limiti KOBİ'ler için 30 Milyon TL (Karşılığı YP)'dir.\nI\nI. Kredi faiz oranı USD için 9,50%, EURO için 8,50%'dir.\nI\nI\nI. Kefalet başvurusu için başvuru ücreti 6.000 TL'dir.",
     "choices": [
       "Yalnız I",
       "I ve II",
@@ -638,7 +638,7 @@
     "answer": 2
   },
   {
-    "question": "KOBİ Yatırım - İşletme Paketi ile ilgili aşağıdakilerden hangisi/hangileri yanlıştır?\nI. Yatırım kredisi kullanan müşterilerimize, işletme sermayesi ihtiyaçlarının karşılanması amacıyla yatırım kredi limitinin %10'una kadar ilave işletme kredisi de kullandırılabilmektedir.\nII. Krediler sadece TL cinsinden kullandırılabilicektir.\nIII. Sektör fark etmeksizin, arsa ve bina yatırımları ancak makine yatırımı ile birlikte ve uyumlu olması halinde yatırım kredisine konu edebilecektir.\nIV. Kredi tutarı satıcı/alacaklı hesaplara aktarılana kadar müşterinin vadesiz hesabına sistem tarafından bloke konulacaktır.",
+    "question": "KOBİ Yatırım - İşletme Paketi ile ilgili aşağıdakilerden hangisi/hangileri yanlıştır?\nI. Yatırım kredisi kullanan müşterilerimize, işletme sermayesi ihtiyaçlarının karşılanması amacıyla yatırım kredi limitinin %10'una kadar ilave işletme kredisi de kullandırılabilmektedir.\nI\nI. Krediler sadece TL cinsinden kullandırılabilicektir.\nI\nI\nI. Sektör fark etmeksizin, arsa ve bina yatırımları ancak makine yatırımı ile birlikte ve uyumlu olması halinde yatırım kredisine konu edebilecektir.\nI\nV. Kredi tutarı satıcı/alacaklı hesaplara aktarılana kadar müşterinin vadesiz hesabına sistem tarafından bloke konulacaktır.",
     "choices": [
       "I ve II",
       "II ve III",
@@ -649,7 +649,7 @@
     "answer": 4
   },
   {
-    "question": "KOSGEB Kapasite Geliştirme Kredisi ve KOSGEB Küresel Rekabetçilik Kredisinin yer aldığı kredi paketi ile ilgili aşağıdakilerden hangisi/hangileri doğrudur?\nI. Asgari kullandırım tutarı sınırlaması bulunmamaktadır.\nII. KOSGEB gider kalemlerinden Makine Teçhizat ve Kalıp Gideri ile Yazılım Gideri kalemi dışındaki gider kalemleri için kredi tutarının müşterinin hesabından çıkışında harcama belgesi şartı aranmamaktadır.\nIII. Kredi tutarları müşteri hesabına aktarılması akabinde vadeli mevduat olarak değerlendirilememektedir.",
+    "question": "KOSGEB Kapasite Geliştirme Kredisi ve KOSGEB Küresel Rekabetçilik Kredisinin yer aldığı kredi paketi ile ilgili aşağıdakilerden hangisi/hangileri doğrudur?\nI. Asgari kullandırım tutarı sınırlaması bulunmamaktadır.\nI\nI. KOSGEB gider kalemlerinden Makine Teçhizat ve Kalıp Gideri ile Yazılım Gideri kalemi dışındaki gider kalemleri için kredi tutarının müşterinin hesabından çıkışında harcama belgesi şartı aranmamaktadır.\nI\nI\nI. Kredi tutarları müşteri hesabına aktarılması akabinde vadeli mevduat olarak değerlendirilememektedir.",
     "choices": [
       "Yalnız I",
       "I ve II",
@@ -660,7 +660,7 @@
     "answer": 3
   },
   {
-    "question": "TOBB Nefes Kredisi ile ilgili aşağıdakilerden hangisi yanlıştır?\nI. Eczaneler, tarım kredi kooperatifleri, faktoring şirketleri ve mali müşavirler bu krediden faydalanamaz.\nII. Kredinin vadesi, azami 6 ay anapara ödemesiz dönem olmak üzere asgari 25 ay, azami 36 aydır.\nIII. Firmaların kullanabileceği azami kredi limiti bütün illerimizde 2,5 Milyon TL'dir.",
+    "question": "TOBB Nefes Kredisi ile ilgili aşağıdakilerden hangisi yanlıştır?\nI. Eczaneler, tarım kredi kooperatifleri, faktoring şirketleri ve mali müşavirler bu krediden faydalanamaz.\nI\nI. Kredinin vadesi, azami 6 ay anapara ödemesiz dönem olmak üzere asgari 25 ay, azami 36 aydır.\nI\nI\nI. Firmaların kullanabileceği azami kredi limiti bütün illerimizde 2,5 Milyon TL'dir.",
     "choices": [
       "Yalnız I",
       "I ve II",
@@ -671,7 +671,7 @@
     "answer": 4
   },
   {
-    "question": "Sır Niteliğindeki Bilgilerin Paylaşılması Hakkında Yönetmelik çerçevesinde aşağıdakilerden hangisi/hangileri doğrudur?\nI. Sıfat ve görevleri dolayısıyla bankalara veya müşterilere ait sırları öğrenenler, söz konusu sırları bu konuda kanunen açıkça yetkili kılınan mercilerden başkasına açıklayamazlar. Bu yükümlülük görevden ayrıldıktan sonra da devam eder.\nII. Bankacılık faaliyetlerine özgü olarak bankalarla müşteri ilişkisi kurulduktan sonra oluşan gerçek ve tüzel kişilere ait veriler, müşteri sırrı hâline gelir. Bir gerçek veya tüzel kişi müşterinin, bankanın müşterisi olduğunu gösterir her türlü bilgi de müşteri sırrı kapsamındadır. (Örneğin IBAN bilgisi)\nIII. Banka sırrı ya da müşteri sırrı niteliğindeki bilgilerin bu konuda kanunen açıkça yetkili kılınan merciler ile paylaşılması sır saklama yükümlülüğüne aykırılık teşkil etmez.1",
+    "question": "Sır Niteliğindeki Bilgilerin Paylaşılması Hakkında Yönetmelik çerçevesinde aşağıdakilerden hangisi/hangileri doğrudur?\nI. Sıfat ve görevleri dolayısıyla bankalara veya müşterilere ait sırları öğrenenler, söz konusu sırları bu konuda kanunen açıkça yetkili kılınan mercilerden başkasına açıklayamazlar. Bu yükümlülük görevden ayrıldıktan sonra da devam eder.\nI\nI. Bankacılık faaliyetlerine özgü olarak bankalarla müşteri ilişkisi kurulduktan sonra oluşan gerçek ve tüzel kişilere ait veriler, müşteri sırrı hâline gelir. Bir gerçek veya tüzel kişi müşterinin, bankanın müşterisi olduğunu gösterir her türlü bilgi de müşteri sırrı kapsamındadır. (Örneğin IBAN bilgisi)\nI\nI\nI. Banka sırrı ya da müşteri sırrı niteliğindeki bilgilerin bu konuda kanunen açıkça yetkili kılınan merciler ile paylaşılması sır saklama yükümlülüğüne aykırılık teşkil etmez.1",
     "choices": [
       "Yalnız I",
       "Yalnız II",
@@ -693,7 +693,7 @@
     "answer": 4
   },
   {
-    "question": "Avantajlı Vadeli Hesap ile ilgili aşağıdakilerden hangisi/hangileri doğrudur?\nI. Gerçek kişi müşterilere 32-364 gün aralığında vadeler ile açılabilmektedir.\nII. Vade süresi boyunca vadesiz hesaptan yapılan ödeme ve belirli harcamalar karşılığında ilave faiz kazanımı sağlanmaktadır.\nIII. Para çekmeye kapalı, sadece harcama yapılabilen sınırlı hesaplardan yapılan işlemler, ilave faiz kazanımı için belirlenen harcama/ödeme tutarlarına dahil edilmemektedir.\nIV. Çekilen tutara faiz ödenmemesi kaydıyla hesap bakiyesinin %70'ine kadar para çekme işlemi yapılabilmektedir.\nV. Minimum 1.000 TL ve maksimum 5.000.000 TL bakiye ile açılabilmektedir.",
+    "question": "Avantajlı Vadeli Hesap ile ilgili aşağıdakilerden hangisi/hangileri doğrudur?\nI. Gerçek kişi müşterilere 32-364 gün aralığında vadeler ile açılabilmektedir.\nI\nI. Vade süresi boyunca vadesiz hesaptan yapılan ödeme ve belirli harcamalar karşılığında ilave faiz kazanımı sağlanmaktadır.\nI\nI\nI. Para çekmeye kapalı, sadece harcama yapılabilen sınırlı hesaplardan yapılan işlemler, ilave faiz kazanımı için belirlenen harcama/ödeme tutarlarına dahil edilmemektedir.\nI\nV. Çekilen tutara faiz ödenmemesi kaydıyla hesap bakiyesinin %70'ine kadar para çekme işlemi yapılabilmektedir.\nV. Minimum 1.000 TL ve maksimum 5.000.000 TL bakiye ile açılabilmektedir.",
     "choices": [
       "Yalnız I",
       "I, II ve III",
@@ -704,7 +704,7 @@
     "answer": 1
   },
   {
-    "question": "Dönüşüm Kredisi ile ilgili aşağıdakilerden hangisi/hangileri doğrudur?\nI. Dönüşüm kredisinde azami kullandırım tutarı; taksitlendirilmek istenen BÇH anapara riski, BÇH biriken faiz ve komisyonu ile BÇH kredi masraflarının toplamıdır.\nII. TLREF endeksli kredide erken kapama komisyonu için fiyatlama alınabilmektedir.\nIII. Dönüşüm Kredisi kullandırım-larının iptali bulunmamaktadır.\nIV. Kalan vadesi 24 aydan kısa kredide erken kapama komisyonu için fiyatlama alınamamaktadır.",
+    "question": "Dönüşüm Kredisi ile ilgili aşağıdakilerden hangisi/hangileri doğrudur?\nI. Dönüşüm kredisinde azami kullandırım tutarı; taksitlendirilmek istenen BÇH anapara riski, BÇH biriken faiz ve komisyonu ile BÇH kredi masraflarının toplamıdır.\nI\nI. TLREF endeksli kredide erken kapama komisyonu için fiyatlama alınabilmektedir.\nI\nI\nI. Dönüşüm Kredisi kullandırım-larının iptali bulunmamaktadır.\nI\nV. Kalan vadesi 24 aydan kısa kredide erken kapama komisyonu için fiyatlama alınamamaktadır.",
     "choices": [
       "I ve II",
       "I, II ve III",
@@ -748,7 +748,7 @@
     "answer": 4
   },
   {
-    "question": "Yatırım Taahhütlü Avans Kredisi ile ilgili aşağıdakilerden hangisi/hangileri yanlıştır?\nI. Bir firma birden fazla banka aracılığı ile Yatırım Taahhütlü Avans Kredisi kullanabilmektedir.\nII. Yatırım yapma taahhüdünü gerçekleştirmeyen firmaların kredi talepleri, taahhüdün gerçekleştirilmediğinin tespit edildiği ya da Merkez Bankasına bildirildiği tarihten itibaren 5 yıl süreyle kabul edilmemektedir.\nIII. Yararlanılan indirim oranına ilişkin taahhütlerin yerine getirilmemesi halinde, kullanılan kredi tutarına kredi kullanım süresi boyunca bu hüküm dolayısıyla yararlanılmış olan indirim oranının 1,5 katı oranında yaptırım uygulanmaktadır.\nIV. Yatırım Taahhütlü Avans Kredisi azami 10 yıl vadeli olarak kullandırılabilmektedir.",
+    "question": "Yatırım Taahhütlü Avans Kredisi ile ilgili aşağıdakilerden hangisi/hangileri yanlıştır?\nI. Bir firma birden fazla banka aracılığı ile Yatırım Taahhütlü Avans Kredisi kullanabilmektedir.\nI\nI. Yatırım yapma taahhüdünü gerçekleştirmeyen firmaların kredi talepleri, taahhüdün gerçekleştirilmediğinin tespit edildiği ya da Merkez Bankasına bildirildiği tarihten itibaren 5 yıl süreyle kabul edilmemektedir.\nI\nI\nI. Yararlanılan indirim oranına ilişkin taahhütlerin yerine getirilmemesi halinde, kullanılan kredi tutarına kredi kullanım süresi boyunca bu hüküm dolayısıyla yararlanılmış olan indirim oranının 1,5 katı oranında yaptırım uygulanmaktadır.\nI\nV. Yatırım Taahhütlü Avans Kredisi azami 10 yıl vadeli olarak kullandırılabilmektedir.",
     "choices": [
       "Yalnız I",
       "I ve II",
@@ -770,7 +770,7 @@
     "answer": 0
   },
   {
-    "question": "Bireysel Bankkart kredi kartlarımız ile yapılan işlemlerde geçerli olan Faizsiz Sonradan Taksitlendirme uygulaması aşağıdaki sektörlerin hangilerinde faaliyeti gösteren üye işyerlerinde geçerlidir?\nI. Kamu Ödemeleri\nII. Sağlık\nIII. Eğitim\nIV. Turizm",
+    "question": "Bireysel Bankkart kredi kartlarımız ile yapılan işlemlerde geçerli olan Faizsiz Sonradan Taksitlendirme uygulaması aşağıdaki sektörlerin hangilerinde faaliyeti gösteren üye işyerlerinde geçerlidir?\nI. Kamu Ödemeleri\nI\nI. Sağlık\nI\nI\nI. Eğitim\nI\nV. Turizm",
     "choices": [
       "I ve II",
       "II ve III",
@@ -781,7 +781,7 @@
     "answer": 1
   },
   {
-    "question": "Yukarıdakilerden hangisi/hangileri 'Avantajlı Vadeli Hesap' ve 'Kesintisiz Vadeli Hesap' ürünlerimizin ortak özellikleri arasında yer alır?\nI. 32-364 gün vade aralığında açılabilir.\nII. 100.000-10.000.000 TL arası bakiye ile açılabilir.\nIII. Vadesiz hesap ve kredi kartı işlemleri ile ilave faiz kazandırır.\nIV. Vade arasında anaparanın %50'sine kadar çekilebilir.",
+    "question": "Yukarıdakilerden hangisi/hangileri 'Avantajlı Vadeli Hesap' ve 'Kesintisiz Vadeli Hesap' ürünlerimizin ortak özellikleri arasında yer alır?\nI. 32-364 gün vade aralığında açılabilir.\nI\nI. 100.000-10.000.000 TL arası bakiye ile açılabilir.\nI\nI\nI. Vadesiz hesap ve kredi kartı işlemleri ile ilave faiz kazandırır.\nI\nV. Vade arasında anaparanın %50'sine kadar çekilebilir.",
     "choices": [
       "Yalnız I",
       "I ve IV",
@@ -792,7 +792,7 @@
     "answer": 0
   },
   {
-    "question": "Yatırım Kredisi Destek Paketi kapsamında aşağıdakilerden hangisi/hangileri doğrudur?\nI. Yatırım kredisi kullanan müşterilerimize, işletme sermayesi ihtiyaçlarının karşılanması amacıyla yatırım kredi limitinin %10'una kadar ilave işletme kredisi de kullandırılabilmektedir.\nII. Turizm sektörü hariç olmak üzere, arsa ve bina yatırımları, ancak makine yatırımı ile birlikte ve uyumlu olması halinde yatırım kredisine konu edilebilmektedir.\nIII. İşletme kredisi, ancak yatırım kredisinin Bankamızdan kullandırılmış olması halinde kullandırılabilicek olup yatırım kredilerine ilave olarak kullandırılacak işletme kredisi tutarının tamamı para yatırmaya, nakit çekime, para transferine kapalı olacak şekilde özel tasarlanmış Sınırlandırılmış Vadesiz Hesaba otomatik olarak aktarılmaktadır.\nIV. Paket kapsamında yatırım kredileri için azami 120 ay, işletme kredileri için azami 24 ay vade belirlenebilmektedir.",
+    "question": "Yatırım Kredisi Destek Paketi kapsamında aşağıdakilerden hangisi/hangileri doğrudur?\nI. Yatırım kredisi kullanan müşterilerimize, işletme sermayesi ihtiyaçlarının karşılanması amacıyla yatırım kredi limitinin %10'una kadar ilave işletme kredisi de kullandırılabilmektedir.\nI\nI. Turizm sektörü hariç olmak üzere, arsa ve bina yatırımları, ancak makine yatırımı ile birlikte ve uyumlu olması halinde yatırım kredisine konu edilebilmektedir.\nI\nI\nI. İşletme kredisi, ancak yatırım kredisinin Bankamızdan kullandırılmış olması halinde kullandırılabilicek olup yatırım kredilerine ilave olarak kullandırılacak işletme kredisi tutarının tamamı para yatırmaya, nakit çekime, para transferine kapalı olacak şekilde özel tasarlanmış Sınırlandırılmış Vadesiz Hesaba otomatik olarak aktarılmaktadır.\nI\nV. Paket kapsamında yatırım kredileri için azami 120 ay, işletme kredileri için azami 24 ay vade belirlenebilmektedir.",
     "choices": [
       "I ve II",
       "Yalnız II",
@@ -803,7 +803,7 @@
     "answer": 4
   },
   {
-    "question": "Bir işletmeye ait bazı bilgiler aşağıdaki gibidir.\nStok Devir Süresi: 120 gün\nOrtalama Ticari Alacaklar: 1.000.000 TL\nBorç Ödeme Süresi: 130 gün\nNet Satışlar: 3.650.000 TL\nBu bilgilere göre işletmenin Finansman Süresi kaç gündür?",
+    "question": "Bir işletmeye ait bazı bilgiler aşağıdaki gibidir.\nStok Devir Süresi: 120 gün Ortalama Ticari Alacaklar: 1.000.000 TL Borç Ödeme Süresi: 130 gün Net Satışlar: 3.650.000 TL Bu bilgilere göre işletmenin Finansman Süresi kaç gündür?",
     "choices": [
       "90",
       "100",
@@ -814,7 +814,7 @@
     "answer": 0
   },
   {
-    "question": "Sayım, Saklama ve Kasa işlemleri ile ilgili olarak aşağıdakilerden hangisi/hangileri doğrudur?\nI. Arka ofis yönetiminden sorumlu personel (Operasyon Yetkilisi veya Şubede Operasyon Yetkilisi bulunmaması halinde Operasyon Asistanı) OSK'nın doğal üyesidir.\nII. Şubede OSK'nın arka ofis personelince oluşturulması esas olmakla birlikte, arka ofiste görevli personel sayısının yeterli olmadığı ya da Şube Yöneticisi tarafından yapılan değerlendirme doğrultusunda 3 kişilik komite \"Banka Asistanı\" ile tamamlanır.\nIII. Şube/PGM/YBM'lerde kamera görüş açısından olmayan hiçbir noktada para sayım ve bulundurma işlemi yapılmaz.\nIV. İskonto, iştira, tahsil ve teminat senetleri gibi her türlü senet ile Banka lehine ciro veya keşide edilen çekler ana kasada saklanır.",
+    "question": "Sayım, Saklama ve Kasa işlemleri ile ilgili olarak aşağıdakilerden hangisi/hangileri doğrudur?\nI. Arka ofis yönetiminden sorumlu personel (Operasyon Yetkilisi veya Şubede Operasyon Yetkilisi bulunmaması halinde Operasyon Asistanı) OSK'nın doğal üyesidir.\nI\nI. Şubede OSK'nın arka ofis personelince oluşturulması esas olmakla birlikte, arka ofiste görevli personel sayısının yeterli olmadığı ya da Şube Yöneticisi tarafından yapılan değerlendirme doğrultusunda 3 kişilik komite \"Banka Asistanı\" ile tamamlanır.\nI\nI\nI. Şube/PGM/YBM'lerde kamera görüş açısından olmayan hiçbir noktada para sayım ve bulundurma işlemi yapılmaz.\nI\nV. İskonto, iştira, tahsil ve teminat senetleri gibi her türlü senet ile Banka lehine ciro veya keşide edilen çekler ana kasada saklanır.",
     "choices": [
       "Yalnız I",
       "I ve III",
@@ -825,7 +825,7 @@
     "answer": 3
   },
   {
-    "question": "Köyümde Yaşamak İçin Bir Sürü Nedenim Var-Küçükbaş Hayvancılık Projesi kapsamında kullandırılabilicek kredilerle ilgili aşağıdakilerden hangisi doğrudur?\nI. Bir üretici, Proje kapsamında yalnız bir kez kredi kullanabilmektedir.\nII. Üreticilere, Proje kapsamında kullandırılabilen toplam (yatırım ve işletme) kredi tutarı azami 1.200.000 TL'dir.\nIII. Proje kapsamında kullandırılan yatırım kredilerinin azami vadesi 84 ay; işletme kredilerinin azami vadesi ise 18 aydır.",
+    "question": "Köyümde Yaşamak İçin Bir Sürü Nedenim Var-Küçükbaş Hayvancılık Projesi kapsamında kullandırılabilicek kredilerle ilgili aşağıdakilerden hangisi doğrudur?\nI. Bir üretici, Proje kapsamında yalnız bir kez kredi kullanabilmektedir.\nI\nI. Üreticilere, Proje kapsamında kullandırılabilen toplam (yatırım ve işletme) kredi tutarı azami 1.200.000 TL'dir.\nI\nI\nI. Proje kapsamında kullandırılan yatırım kredilerinin azami vadesi 84 ay; işletme kredilerinin azami vadesi ise 18 aydır.",
     "choices": [
       "I ve II",
       "Yalnız II",
@@ -836,7 +836,7 @@
     "answer": 0
   },
   {
-    "question": "KOBİ'nin Artısı Kredi Paketinden yararlanmak isteyen müşterilerimizle ilgili aşağıdakilerden hangisi/hangileri doğrudur?\nI. Kredi paketinden yararlanacak tüm müşterilerimiz için son 3 aylık FDGG rasyosunun %1,30'dan büyük olması gerekmektedir.\nII. KOBİ müşterilerimizin en az 3, esnaf müşterilerimizin en az 2 adet aktif otomatik ödeme talimatı bulunması gerekmektedir.\nIII. Paket kapsamındaki kredilerimiz fiyatlamalı olarak kullandırılacaktır.\nIV. Kredi paketinden yararlanacak tüm müşterilerimizin asgari 1 Milyon TL Bankkart limitinin bulunması gerekmektedir.",
+    "question": "KOBİ'nin Artısı Kredi Paketinden yararlanmak isteyen müşterilerimizle ilgili aşağıdakilerden hangisi/hangileri doğrudur?\nI. Kredi paketinden yararlanacak tüm müşterilerimiz için son 3 aylık FDGG rasyosunun %1,30'dan büyük olması gerekmektedir.\nI\nI. KOBİ müşterilerimizin en az 3, esnaf müşterilerimizin en az 2 adet aktif otomatik ödeme talimatı bulunması gerekmektedir.\nI\nI\nI. Paket kapsamındaki kredilerimiz fiyatlamalı olarak kullandırılacaktır.\nI\nV. Kredi paketinden yararlanacak tüm müşterilerimizin asgari 1 Milyon TL Bankkart limitinin bulunması gerekmektedir.",
     "choices": [
       "Yalnız I",
       "II ve III",
@@ -847,7 +847,7 @@
     "answer": 1
   },
   {
-    "question": "Yukarıdakilerden hangisi/hangileri bireysel kredi işlemlerinde müşteriye veya üçüncü şahsa/tüzel kişiliğe ait, teminat olarak alınabilecek nakit veya nakit benzeri değerlerdir?\nI. Eurobond\nII. Ziraat Portföy Borçlanma Araçları Fonu\nIII. Ziraat Portföy Para Piyasası Fonu\nIV. Bireysel Emeklilik Sistemi (BES) Birikimi\nV. Gelire Endeksli Devlet İç Borçlanma Senedi",
+    "question": "Yukarıdakilerden hangisi/hangileri bireysel kredi işlemlerinde müşteriye veya üçüncü şahsa/tüzel kişiliğe ait, teminat olarak alınabilecek nakit veya nakit benzeri değerlerdir?\nI. Eurobond\nI\nI. Ziraat Portföy Borçlanma Araçları Fonu\nI\nI\nI. Ziraat Portföy Para Piyasası Fonu\nI\nV. Bireysel Emeklilik Sistemi (BES) Birikimi\nV. Gelire Endeksli Devlet İç Borçlanma Senedi",
     "choices": [
       "Yalnız III",
       "I ve III",
