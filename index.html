@@ -95,7 +95,7 @@
           }
         }
         // Try /data/questions.json, then fallback to /questions.json at repo root
-        questions = await tryFetch('./data/questions.json?_=' + Date.now());
+        questions = await tryfetch('./questions.json?_=' + Date.now());
         if (!questions) {
           questions = await tryFetch('./questions.json?_=' + Date.now());
         }
