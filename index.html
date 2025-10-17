@@ -195,7 +195,7 @@
       let reviewPos = 0;
 
       async function load() {
-        const res = await fetch('./data/questions.json?_=' + Date.now());
+        const res = await fetch('./quiz_questions.json?_=' + Date.now());
         questions = await res.json();
         selections = Array(questions.length).fill(null);
         correctness = Array(questions.length).fill(null);
